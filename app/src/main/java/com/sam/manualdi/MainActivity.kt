@@ -81,12 +81,3 @@ fun MyScreen(
     }
 }
 
-
-
-
-
-
-@Composable
-fun FreeTips(freeTip: FreeTip) {
-    Text(text = freeTip.match)
-}
